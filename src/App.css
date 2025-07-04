@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.justify-content-end{
+  justify-content: flex-end;
+  margin-right: 6%;
+  margin-top: 1%;
+}
+.justify-content-ev.Link:hover{
+  text-decoration: underline;
+
+}
+.nav_item:hover{
+  text-decoration: underline;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
